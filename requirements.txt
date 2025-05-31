@@ -1,0 +1,7 @@
+Flask>=3.0.2
+python-dotenv>=0.21.0
+requests>=2.31.0
+PyYAML>=6.0
+transformers>=4.30.0
+gunicorn>=20.1.0
+# You can add specific versions if needed, e.g., Flask==3.0.2
