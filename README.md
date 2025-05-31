@@ -108,7 +108,3 @@ The `ash-conv-cli.py` script is the entry point for all CLI operations.
 -   `PyYAML`
 -   `transformers` (Required if using the `--use-ai` feature)
     (See `requirements.txt` for specific versions)
-
-## License
-
-MIT  
